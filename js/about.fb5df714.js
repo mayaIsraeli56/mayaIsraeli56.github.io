@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktipul_baprat"]=self["webpackChunktipul_baprat"]||[]).push([[443],{833:function(t,a,n){n.r(a),n.d(a,{default:function(){return o}});var u=n(3396);const r={class:"about"},e=(0,u._)("h1",null,"This is an about page",-1),s=[e];function i(t,a){return(0,u.wg)(),(0,u.iD)("div",r,s)}var c=n(89);const l={},p=(0,c.Z)(l,[["render",i]]);var o=p}}]);
+//# sourceMappingURL=about.fb5df714.js.map
